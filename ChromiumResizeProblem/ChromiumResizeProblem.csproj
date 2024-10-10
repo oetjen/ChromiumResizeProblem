@@ -96,7 +96,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="CefSharp.Wpf">
-      <Version>129.0.110</Version>
+      <Version>126.2.180</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
